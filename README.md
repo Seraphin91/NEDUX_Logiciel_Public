@@ -14,11 +14,14 @@ L'application gère différents rôles (Administrateur, Professeur) avec des vue
 
 ### 🛡️ Espace Administration
 * **Tableau de bord interactif :** Raccourcis d'actions rapides, alertes récentes et flux de notifications.
+* **Gestion des Élèves et des Classes :** Administration complète des effectifs, création et structuration des classes. Génération et gestion des comptes de connexion permettant aux élèves d'accéder à leur application mobile Nedux.
+* **Gestion des Absences :** Interface dédiée au suivi de l'assiduité. Permet de saisir, consulter et justifier (ou non) les absences des élèves en temps réel.
 * **Emploi du temps (EDT) Avancé :** * Vues journalière, hebdomadaire et mensuelle.
   * Création de cours avec système de "cascade" (Matière ➔ Professeur disponible ➔ Salle libre).
   * Duplication automatique de cours sur plusieurs semaines.
   * **Calendrier Annuel :** Planification globale (Vacances, Conseils de classe, Examens) avec un affichage visuel par code couleur.
-* **Gestion du Personnel :** Ajout/Modification sécurisée des professeurs, assignation de matières (système de tags), gestion des accès.
+* **Gestion du Personnel (Professeurs & Ressources) :** Ajout/Modification sécurisée des professeurs, assignation de matières (système de tags) et gestion des accès.
+* **Vie Associative (Clubs) :** Création et administration des différents clubs et activités extrascolaires proposés par l'établissement.
 * **Annonces :** Envoi de messages ciblés (Élèves, Professeurs, ou Tous).
 
 ### 👨‍🏫 Espace Professeur
@@ -26,7 +29,6 @@ L'application gère différents rôles (Administrateur, Professeur) avec des vue
   * Affichage intelligent scindé en deux : "Devoirs en cours" (mis en évidence) et "Précédents devoirs" (historique grisé).
 * **Consultation EDT :** Accès en lecture seule à son emploi du temps personnel avec détails interactifs des cours.
 * **Communication :** Réception et lecture des annonces de l'administration.
-
 ---
 
 ## 🎨 Interface et Design (UI/UX)
