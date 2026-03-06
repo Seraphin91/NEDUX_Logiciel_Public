@@ -63,3 +63,11 @@ NeduxApp/
 │   ├── Prof/         # (DashboardProfView, AgendaProfView, EDTProfView...)
 │   └── Shared/       # Composants partagés (ConfirmDialog...)
 └── ressources/       # Images, logos, polices
+```
+## ⚖️ Licence et Droits d'auteur
+
+**© 2026 Nedux - Tous droits réservés.**
+
+Ce projet est une propriété intellectuelle fermée et propriétaire. L'intégralité du code source, de l'architecture, de la logique métier et du design (UI/UX) appartient exclusivement à ses créateurs et à l'équipe de développement.
+
+⚠️ **Avertissement strict :** Ce code n'est **pas** open-source. Il est strictement interdit de copier, reproduire, distribuer, modifier ou utiliser ce code (en partie ou dans sa totalité) à des fins commerciales, éducatives ou personnelles sans une autorisation écrite explicite. Ce logiciel est en cours de développement et a pour vocation d'être un produit commercialisé dans sa version finale.
