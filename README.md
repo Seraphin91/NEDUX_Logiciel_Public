@@ -1,8 +1,8 @@
-# 🎓 Nedux - Application Bureau (WPF)
+# Nedux - Application Bureau (WPF)
 
 > **Nedux** est une solution logicielle moderne de gestion de vie scolaire. Conçue avec une interface "Dark Mode" élégante et intuitive, l'application bureau s'adresse principalement au corps enseignant et à l'administration pour simplifier la gestion quotidienne (emplois du temps, agenda, communication).
 
-## 🌟 À propos du projet
+## À propos du projet
 
 Ce dépôt contient le client lourd (Desktop) de l'écosystème Nedux. Développé en **C# / WPF**, il met l'accent sur la productivité grâce à un design soigné (UI/UX), des composants personnalisés et une navigation fluide sans rechargement.
 
@@ -10,9 +10,9 @@ L'application gère différents rôles (Administrateur, Professeur) avec des vue
 
 ---
 
-## 🚀 Fonctionnalités Principales
+## Fonctionnalités Principales
 
-### 🛡️ Espace Administration
+### Espace Administration
 * **Tableau de bord interactif :** Raccourcis d'actions rapides, alertes récentes et flux de notifications.
 * **Gestion des Élèves et des Classes :** Administration complète des effectifs, création et structuration des classes. Génération et gestion des comptes de connexion permettant aux élèves d'accéder à leur application mobile Nedux.
 * **Gestion des Absences :** Interface dédiée au suivi de l'assiduité. Permet de saisir, consulter et justifier (ou non) les absences des élèves en temps réel.
@@ -24,14 +24,14 @@ L'application gère différents rôles (Administrateur, Professeur) avec des vue
 * **Vie Associative (Clubs) :** Création et administration des différents clubs et activités extrascolaires proposés par l'établissement.
 * **Annonces :** Envoi de messages ciblés (Élèves, Professeurs, ou Tous).
 
-### 👨‍🏫 Espace Professeur
+### Espace Professeur
 * **Agenda Numérique :** * Création de devoirs assignables à plusieurs classes simultanément (système de tags multi-sélection).
   * Affichage intelligent scindé en deux : "Devoirs en cours" (mis en évidence) et "Précédents devoirs" (historique grisé).
 * **Consultation EDT :** Accès en lecture seule à son emploi du temps personnel avec détails interactifs des cours.
 * **Communication :** Réception et lecture des annonces de l'administration.
 ---
 
-## 🎨 Interface et Design (UI/UX)
+## Interface et Design (UI/UX)
 
 Une attention toute particulière a été portée à l'interface utilisateur pour s'éloigner des logiciels de gestion traditionnels austères :
 * **Thème Sombre (Dark Mode) natif :** Couleurs dominantes bleu nuit (`#13151D`) et accents Cyan (`#00BCD4`).
@@ -43,7 +43,7 @@ Une attention toute particulière a été portée à l'interface utilisateur pou
 
 ---
 
-## 💻 Technologies Utilisées
+## Technologies Utilisées
 
 * **Langage :** C# (.NET)
 * **Framework UI :** WPF (Windows Presentation Foundation) / XAML
@@ -52,7 +52,7 @@ Une attention toute particulière a été portée à l'interface utilisateur pou
 
 ---
 
-## 📁 Structure du Projet
+## Structure du Projet
 
 ```text
 NeduxApp/
@@ -64,7 +64,7 @@ NeduxApp/
 │   └── Shared/       # Composants partagés (ConfirmDialog...)
 └── ressources/       # Images, logos, polices
 ```
-## ⚖️ Licence et Droits d'auteur
+## Licence et Droits d'auteur
 
 **© 2026 Nedux - Tous droits réservés.**
 
