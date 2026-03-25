@@ -70,7 +70,15 @@ NeduxApp/
 
 ## Vidéo de démonstration
 
-[![Démo de Nedux](https://img.youtube.com/vi/T9yRrDuPgzs/maxresdefault.jpg)](https://youtu.be/T9yRrDuPgzs)
+<div align="center">
+  <a href="https://youtu.be/T9yRrDuPgzs">
+    <img src="https://img.youtube.com/vi/T9yRrDuPgzs/maxresdefault.jpg" alt="Démonstration vidéo de Nedux" width="800" />
+  </a>
+  <br><br>
+  <a href="https://youtu.be/T9yRrDuPgzs">
+    <img src="https://img.shields.io/badge/▶_Regarder_la_démonstration_vidéo-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="Bouton Play YouTube" />
+  </a>
+</div>
 
 ## Licence et Droits d'auteur
 
